@@ -1,0 +1,20 @@
+[
+    {"id": "tt0117705",
+     "title": "Space Jam",
+     "genre": "Animation",
+     "director": "Joe Pytka",
+     "released": "1996"
+    },
+    {"id": "tt0116483",
+    "title": "Happy Gilmore",
+    "genre": "Comedy",
+    "director": "Dennis Dugan",
+    "released": "1996"
+    },
+    {"id": "tt6723592",
+    "title": "Tenet",
+    "genre": "Action",
+    "director": "Christopher Nolan",
+    "released": "2020"
+    }
+]

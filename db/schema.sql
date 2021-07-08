@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS downtime_db;
+CREATE DATABASE downtime_db;

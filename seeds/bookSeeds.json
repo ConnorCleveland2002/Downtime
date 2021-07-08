@@ -1,0 +1,128 @@
+[
+      {
+        "kind": "books#volume",
+        "book_id": "aGquDwAAQBAJ",
+        "etag": "6FSIERVCwe8",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/aGquDwAAQBAJ",
+        "title": "The Joy of Search",
+        "subtitle": "A Google Insider's Guide to Going Beyond the Basics",
+        "authors": "Daniel M. Russell",
+        "publisher": "MIT Press",
+        "publishedDate": "2019-10-01"
+        },
+      {
+        "kind": "books#volume",
+        "book_id": "rYIhAAAAMAAJ",
+        "etag": "P7nP2FKtzTs",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/rYIhAAAAMAAJ",
+        "title": "Books and Culture",
+        "authors": "Hamilton Wright Mabie",
+        "publishedDate": "1900"
+      },
+      {
+        "kind": "books#volume",
+        "book_id": "-ThDDwAAQBAJ",
+        "etag": "ZuHmbR9g0Ug",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/-ThDDwAAQBAJ",
+        "title": "Algorithms of Oppression",
+        "subtitle": "How Search Engines Reinforce Racism",
+        "authors": "Safiya Umoja Noble",
+        "publisher": "NYU Press",
+        "publishedDate": "2018-02-20"
+      },
+      {
+        "kind": "books#volume",
+        "book_id": "Y8yAswEACAAJ",
+        "etag": "RD4RKFjKxns",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/Y8yAswEACAAJ",
+        "title": "Deep Learning for Search",
+        "authors":"Tommaso Teofili",
+        "publishedDate": "2018-07-28"
+      },
+      {
+        "kind": "books#volume",
+        "book_id": "UjG8qXVRSSQC",
+        "etag": "UUpuB8PUEn4",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/UjG8qXVRSSQC",
+        "title": "Google Power Search",
+        "authors": "Stephan Spencer",
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2011-07-23"
+      },
+      {
+        "kind": "books#volume",
+        "book_id": "n3N0swEACAAJ",
+        "etag": "VCLR/rhcV+I",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/n3N0swEACAAJ",
+        "title": "The Great Escape",
+        "subtitle": "A Super Seek-and-Find Pop-Up Book!",
+        "authors": "Loic Mehee",
+        "publisher": "Twirl",
+        "publishedDate": "2018-10-02",
+        "pageCount": 18,
+        "printType": "BOOK",
+        "category": "Juvenile Fiction"
+      },
+      {
+        "kind": "books#volume",
+        "book_id": "nopJzzYeNREC",
+        "etag": "7n0f9adEHGo",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/nopJzzYeNREC",
+        "title": "Web Search",
+        "subtitle": "Multidisciplinary Perspectives",
+        "authors": 
+            "Amanda Spink & Michael Zimmer",
+        "publisher": "Springer Science & Business Media",
+        "publishedDate": "2008-09-16",
+        "pageCount": 352,
+        "printType": "BOOK",
+        "category": "Computers"
+      },
+      {
+        "kind": "books#volume",
+        "book_id": "5X0zDwAAQBAJ",
+        "etag": "HlUCimoxYY0",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/5X0zDwAAQBAJ",
+        "title": "SPARK Amazing America! Word Search",
+        "authors": 
+            "John Kurtz"
+          ,
+        "publisher": "Courier Dover Publications",
+        "publishedDate": "2017-11-06",
+        "description": "Forty-six fun-filled word search challenges feature such themes as the 13 colonies, football and baseball teams, authors, landmarks, classic rock songs, astronauts, country music singers, and many other subjects.",
+        "pageCount": 64,
+        "printType": "BOOK",
+        "category": 
+            "Games & Activities"
+      },
+      {
+        "kind": "books#volume",
+        "book_id": "0ArDOdcWNQcC",
+        "etag": "K2O2jVKdF3U",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/0ArDOdcWNQcC",
+        "title": "Combinatorial Algorithms",
+        "subtitle": "Generation, Enumeration, and Search",
+        "authors": 
+            "Donald L. Kreher",
+        "publisher": "CRC Press",
+        "publishedDate": "1998-12-18",
+        "pageCount": 344,
+        "printType": "BOOK",
+        "category": "Mathematics"
+      },
+      {
+        "kind": "books#volume",
+        "book_id": "5PbUDAAAQBAJ",
+        "etag": "cqb2Rl25vOQ",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/5PbUDAAAQBAJ",
+        "title": "Adnan's Story",
+        "subtitle": "The Search for Truth and Justice After Serial",
+        "authors": "Rabia Chaudry",
+        "publisher": "Macmillan",
+        "publishedDate": "2016-08-09",
+        "pageCount": 416,
+        "printType": "BOOK",
+        "category": "Biography & Autobiography"
+        }
+    
+]

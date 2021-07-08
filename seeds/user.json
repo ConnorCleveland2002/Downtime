@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Alain Tagne Kuate",
+    "email": "AlainTagneKuate@email.com",
+    "password": "12345678"
+  },
+  {
+    "name": "Joel Balkcom",
+    "email": "JoelBalkcom@email.com",
+    "password": "23456781"
+  },
+  {
+    "name": "Trey James",
+    "email": "TreyJames@email.com",
+    "password": "34567812"
+  },
+  {
+    "name": "Connor Cleveland",
+    "email": "ConnorCleveland@email.com",
+    "password": "45678123"
+  },
+  {
+    "name": "Mark Andersen",
+    "email": "MarkAndersen@email.com",
+    "password": "56781234"
+  }
+]

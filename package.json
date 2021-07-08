@@ -1,0 +1,37 @@
+{
+  "name": "Downtime",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "seed": "node seeds/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bcrypt": "^5.0.1",
+    "connect-session-sequelize": "^7.1.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.2",
+    "express-session": "^1.17.2",
+    "express-sessions": "^1.0.6",
+    "google-books": "^0.1.0",
+    "mysql2": "^2.2.5",
+    "path": "^0.12.7",
+    "sequelize": "^6.6.5",
+    "spotify-web-api-node": "^5.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConnorCleveland2002/Downtime-3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ConnorCleveland2002/Downtime-3/issues"
+  },
+  "homepage": "https://github.com/ConnorCleveland2002/Downtime-3#readme"
+}
