@@ -58,10 +58,12 @@ It is an open app and all contribution are welcome.
 
 ## Project Links
 
-[DeployedLink Link]()
+[Heroku](https://morning-eyrie-12199.herokuapp.com/home)
 
 [Github Repository](https://github.com/ConnorCleveland2002/Downtime)
     
+[Functional Github Repository](https://github.com/ConnorCleveland2002/Downtime-3)
+
 ## License
     
     MIT License
